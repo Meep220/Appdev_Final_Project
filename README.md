@@ -1,4 +1,4 @@
-## Dependencies
+![image](https://github.com/user-attachments/assets/c27cb71f-fb6c-4a39-af2b-d50425a81b63)## Dependencies
 - Java 8 JDK
 - Embedded Tomcat 9 server
 - MySQL Database
@@ -30,5 +30,5 @@
 
 ### Frontend
 - have node.js installed on your system.
-- GOTO the path of **frontend** folder in comand-prompt and run `npm start`
+- GOTO the path of **frontend** folder in comand-prompt and run `node --openssl-legacy-provider ./node_modules/@angular/cli/bin/ng serve`
 - Now your frontend will be hosted on http://localhost:8001.
