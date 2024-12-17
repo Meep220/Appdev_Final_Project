@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c27cb71f-fb6c-4a39-af2b-d50425a81b63)## Dependencies
+## Dependencies
 - Java 8 JDK
 - Embedded Tomcat 9 server
 - MySQL Database
